@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col items-center justify-center p-8 gap-12 max-w-3xl mx-auto font-sans">
       <h1 className="text-4xl font-bold">Hello, I am <strong>Owen Yap</strong>!</h1>
       <p className="text-center text-lg max-w-xl">
-        I'm a full-stack developer specializing in building modern and intuitive web applications and mobile apps. I have a maniac love for ice cream and green tea. Plus, I am also an easy-going and chill person so I will fit right in any team.
+        I&apos;m a full-stack developer specializing in building modern and intuitive web applications and mobile apps. I have a maniac love for ice cream and green tea. Plus, I am also an easy-going and chill person so I will fit right in any team.
       </p>
       <p className="text-center text-lg max-w-xl">
         This website is built using React, Next.js, and TypeScript.

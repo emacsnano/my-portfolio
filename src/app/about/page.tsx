@@ -7,11 +7,11 @@ export default function AboutPage() {
       </p>
       <p className="text-lg leading-relaxed mb-4">
         My core tech stack includes <strong>TypeScript, React, Next.js, and Tailwind CSS</strong>. 
-        I'm also comfortable working with backend tools like Node.js, Express, and PostgreSQL.
+        I&apos;m also comfortable working with backend tools like Node.js, Express, and PostgreSQL.
       </p>
       <p className="text-lg leading-relaxed">
-        When I'm not coding, I enjoy gaming, watching shows like Eurovision, F1 and Kitchen Nightmares. 
-        In the near future, I aim to pursue a degree in Computer Science, either locally or abroad. Feel free to connect with me on LinkedIn — I'm always open to new ideas, collaborations, and opportunities. I am also open to freelance projects, internships and full-time opportunities too!
+        When I&apos;m not coding, I enjoy gaming, watching shows like Eurovision, F1 and Kitchen Nightmares. 
+        In the near future, I aim to pursue a degree in Computer Science, either locally or abroad. Feel free to connect with me on LinkedIn — I&apos;m always open to new ideas, collaborations, and opportunities. I am also open to freelance projects, internships and full-time opportunities too!
       </p>
     </main>
   );
